@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c76f4d7d-b237-4658-8443-e92ccc962fee" name="Default" comment="removes workspace.xml&#10;">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="c76f4d7d-b237-4658-8443-e92ccc962fee" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.024271844" vertical-offset="0" max-vertical-offset="618">
+            <state line="2" column="3" selection-start="21" selection-end="21" vertical-scroll-proportion="0.048543688" vertical-offset="0" max-vertical-offset="618">
               <folding />
             </state>
           </provider>
@@ -45,7 +45,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -316,11 +316,7 @@
       <created>1396597522150</created>
       <updated>1396597522150</updated>
     </task>
-    <task id="LOCAL-00006" summary="removes workspace.xml&#10;">
-      <created>1396597591061</created>
-      <updated>1396597591061</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -387,7 +383,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="0.024271844" vertical-offset="0" max-vertical-offset="618">
+        <state line="2" column="3" selection-start="21" selection-end="21" vertical-scroll-proportion="0.048543688" vertical-offset="0" max-vertical-offset="618">
           <folding />
         </state>
       </provider>
